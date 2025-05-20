@@ -1,0 +1,18 @@
+[project]
+name = "ai-travel-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "folium>=0.19.5",
+    "geopy>=2.4.1",
+    "google-generativeai>=0.8.4",
+    "mypy>=1.15.0",
+    "openai>=1.65.4",
+    "plotly>=6.0.0",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.0.1",
+    "streamlit>=1.43.1",
+    "streamlit-folium>=0.24.0",
+]
