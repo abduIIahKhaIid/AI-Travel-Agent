@@ -48,7 +48,7 @@ An intelligent travel assistant powered by Google's Gemini API with advanced fun
 2. **Set up environment**
    ```bash
    # Create virtual environment
-   python -m venv .venv
+   uv venv
    
    # Activate virtual environment
    # Windows:
@@ -59,8 +59,8 @@ An intelligent travel assistant powered by Google's Gemini API with advanced fun
 
 3. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
-   # or using uv:
+ 
+   # using uv:
    uv sync
    ```
 
