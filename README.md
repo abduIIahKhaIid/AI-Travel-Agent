@@ -146,15 +146,7 @@ When you ask Gemini about travel destinations, it automatically calls the `show_
 4. Function generates interactive map with markers
 5. Map is displayed in the Streamlit interface
 
-## 🧪 Testing
 
-Run the test script to verify function calling:
-
-```bash
-python test_function_calling.py
-```
-
-This will test various prompts to ensure Gemini correctly calls the map function.
 
 ## 🔒 Security & Privacy
 
